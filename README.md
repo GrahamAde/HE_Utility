@@ -3,7 +3,7 @@
 
 Licensed under [GPLv3](https://www.gnu.org/licenses/)
 
-The Homomorphic Encryption Utility (HE Utility) encrypts 64-bit integer values, perform mathematical operations on ciphertext using homomorphic encryption, and decrypts the results.
+The Homomorphic Encryption Utility (HE Utility) encrypts 64-bit integer values, performs mathematical operations on the ciphertext using homomorphic encryption, and decrypts the results.
 
 Uses the the [OpenFHE library](https://www.openfhe.org/).
 
