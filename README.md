@@ -141,14 +141,14 @@ Performing Mathematical Operations on Ciphertext
 
 In the middle of the application window, the user can select eight different mathematical operations to perform on the ciphertext.  All mathematical operations are applied uniformly across all original integer inputs.  The user can select from the following mathematical operations:
 
-- “Add 1” – This adds 1 to all original integer values.
-- “Add 3” – This adds 3 to all original integer values.
-- “Add 5” – This adds 5 to all original integer values.
-- “Subtract 1” – This subtracts 1 from all original integer values.
-- “Subtract 3” – This subtracts 3 from all original integer values.
-- “Subtract 5” – This subtracts 5 from all original integer values.
-- “Multiply by 3” – This multiplies all original integer values by 3.
-- “Multiply by 5” – This multiplies all original integer values by 5.
+“Add 1” – This adds 1 to all original integer values.
+“Add 3” – This adds 3 to all original integer values.
+“Add 5” – This adds 5 to all original integer values.
+“Subtract 1” – This subtracts 1 from all original integer values.
+“Subtract 3” – This subtracts 3 from all original integer values.
+“Subtract 5” – This subtracts 5 from all original integer values.
+“Multiply by 3” – This multiplies all original integer values by 3.
+“Multiply by 5” – This multiplies all original integer values by 5.
 
 Once a user clicks on a mathematical operation to perform, the application runs the operation on the ciphertext and displays the resultant ciphertext as a JSON object in the “Resultant Ciphertext” viewport on the right side of the application window.  Additionally, a history of all performed ciphertext operations are listed in the scroll window viewport located below the mathematical operation buttons.  Running multiple mathematical operations on the ciphertext will result in the most recent ciphertext JSON object being displayed first in the “Resultant Ciphertext” viewport.  A history of the resultant ciphertexts will be shown if the user scrolls down the viewport.  The most recent resultant ciphertext is always displayed first.
 
