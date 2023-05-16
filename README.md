@@ -39,7 +39,7 @@ Build Docker Image
 Run Docker Image
 </h2>
 
-The HE Utility has a GUI, so certain docker tags need to be passed to the run command.
+The HE Utility has a GUI, so certain arguments need to be passed to the docker run command.
 
   ```
   docker run --rm --net=host --env="DISPLAY" --volume="$HOME/.Xauthority:/home/userone/.Xauthority:rw" heutility:latest
