@@ -36,7 +36,7 @@ Build Docker Image
 ***
 
 <h2 id="DockerRun">
-Run Docker Image
+Run Docker Container
 </h2>
 
 The HE Utility has a GUI, so certain arguments need to be passed to the docker run command.
